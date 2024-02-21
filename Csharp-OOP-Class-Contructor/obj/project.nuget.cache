@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBIlA1dwiebAOgwz90lx84uWXx8khjQSr0BWI5bfy5lWImzhcw9rgu01nAs4T4hFqFa+Jt6NaO4mkc9SpS7vIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\C#\\Csharp-OOP-Class-Contructor\\Csharp-OOP-Class-Contructor\\Csharp-OOP-Class-Contructor\\Csharp-OOP-Class-Contructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

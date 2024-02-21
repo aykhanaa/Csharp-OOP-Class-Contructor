@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\bin\Debug\net6.0\Csharp-OOP-Class-Contructor.exe
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\bin\Debug\net6.0\Csharp-OOP-Class-Contructor.deps.json
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\bin\Debug\net6.0\Csharp-OOP-Class-Contructor.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\bin\Debug\net6.0\Csharp-OOP-Class-Contructor.dll
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\bin\Debug\net6.0\Csharp-OOP-Class-Contructor.pdb
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\Csharp-OOP-Class-Contructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\Csharp-OOP-Class-Contructor.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\Csharp-OOP-Class-Contructor.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\Csharp-OOP-Class-Contructor.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\Csharp-OOP-Class-Contructor.dll
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\refint\Csharp-OOP-Class-Contructor.dll
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\Csharp-OOP-Class-Contructor.pdb
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\Csharp-OOP-Class-Contructor.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\Csharp-OOP-Class-Contructor\obj\Debug\net6.0\ref\Csharp-OOP-Class-Contructor.dll
